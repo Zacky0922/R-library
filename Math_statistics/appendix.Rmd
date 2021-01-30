@@ -1,0 +1,39 @@
+---
+title: "Appendix"
+author: "Zacky"
+date: "2021/1/26"
+output: html_document
+# md_extensions: -ascii_identifiers
+---
+
+## 参考リンク
+
+### R/Shiny
+
+各公式サイトです。
+
+- [The R Project for Statistical Computing](https://www.r-project.org/)
+
+- [RStudio](https://rstudio.com/)
+
+- [Shiny](https://shiny.rstudio.com/)
+
+
+### Shiny Apps
+
+- [Shiny Apps Gallery](https://shiny.rstudio.com/gallery/)
+
+  Shiny公式のAppsギャラリーです。
+
+- [Probability Distributions](https://statdist.ksmzn.com/)
+
+  確率分布についてのまとめページです。（右上から日本語表示可）
+
+
+### Others
+
+- [諸々解説サイト](https://zacky.ninja-x.jp/www/%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6/)
+
+  むかーしむかしのそのまた昔に作ったものなので、体裁が統一されずに書きなぐられた高校数学解説サイトです。
+  
+  その内に体裁を整えて移転する予定（←本当か？）です。

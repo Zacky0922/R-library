@@ -1,0 +1,13 @@
+name: basic_statistics
+title: basic_statistics
+username:
+account: zacky0922
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3523141
+bundleId: 4147200
+url: https://zacky0922.shinyapps.io/basic_statistics/
+when: 1611705648.9705
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: formula.html|home.html

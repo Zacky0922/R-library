@@ -1,0 +1,35 @@
+---
+title: "formula"
+author: "Zacky"
+date: "2021/1/26"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+md_extensions: -ascii_identifiers
+---
+
+## 2次元データ
+
+|項目|公式|他の表現|
+|----|----|----|
+|平均値|$$\bar{x}=\dfrac{1}{n}\sum_{i=1}^n x_i$$|$$E(X)$$|
+|分散|$$s^2=\dfrac{1}{n}\sum_{i=1}^n(x_i-\bar{x})^2$$|$$V(X)=E(X^2)-\left\{E(X)\right\}^2$$|
+|標準偏差|$$s=\sqrt{s^2}$$|
+|共分散|$$s_{xy}=\dfrac{1}{n}\sum_{i=1}^n (x_i-\bar{x})(y_i-\bar{y})$$|
+|相関係数|$$r=\dfrac{s_{xy}}{s_x s_y}$$|
+
+## 母集団と標本
+
+何がmで何がμ
+
+|項目|母集団|標本|標本から推定される母集団|
+|----|----|----|----|
+|サイズ|$$N$$|$$n$$||
+|平均|$$\mu$$|$$m$$|$$\hat{\mu}$$|
+|分散|$$\sigma^2$$|$$s^2$$||
+|標準偏差|$$\sigma$$|$$s$$||
+
+## 基本統計量
